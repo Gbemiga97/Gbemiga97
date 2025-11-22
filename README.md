@@ -1,20 +1,3 @@
-```yaml
-name: Your Name
-pronouns: He/Him • She/Her • They/Them
-current_role: Junior IAM Administrator | Entra ID Enthusiast
-company: "Currently securing identities & learning every day"
-focus: Microsoft Entra ID • Conditional Access • Identity Governance • Zero Trust Basics
-from: Your City / Country
-education: Microsoft Certifications / IT" or "Self-taught with a serious coffee addiction ☕"
-fun_fact: Once accidentally locked myself out of a lab tenant for 3 days... lesson learned! 😂
-```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/entra-journey.gif" width="100%"/>
-
-</div>
-
 ## Hey there, future colleagues! 👋  
 ### I’m **Holuwagbemiga** — Your Friendly Neighborhood Junior IAM Admin
 
@@ -47,27 +30,22 @@ I may be early in my career, but I’m fully committed to modern identity!
 - Automated user provisioning with PowerShell + scheduled tasks
 
 ### Currently Studying For
-- Microsoft Certified: **Identity and Access Administrator Associate (SC-300)** (Exam in X weeks!)
+- Microsoft Certified: **Identity and Access Administrator Associate (SC-300)**
 - Microsoft **AZ-500** next in line
 
 ### Let’s Connect — I’d Love to Learn From You!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter/X](https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x)](https://x.com/yourhandle)
-[![Blog](https://img.shields.io/badge/Blog-Notes%20from%20the%20Lab-00D9A5?style=for-the-badge&logo=hashnode)](https://yourblog.dev)
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=4285f4&style=flat" />
-
-<br/>
 
 **“Just because I’m junior doesn’t mean I take security lightly.”**  
 I’m here to learn, contribute, and one day become the person who writes the Conditional Access policies everyone copies.
 
-Currently open to:
-- Junior IAM roles
-- Apprenticeships/internships
-- Mentorship & knowledge sharing
+Currently open to:  
+ Junior IAM roles  
+ Apprenticeships/internships  
+ Mentorship & knowledge sharing  
 
 Drop me a message — I respond faster than a risky sign-in alert! ⚡
 </div>
