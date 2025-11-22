@@ -37,20 +37,6 @@ I may be early in my career, but I’m fully committed to modern identity!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter/X](https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x)](https://x.com/yourhandle)
 
-<div align="center">
-
-**“Just because I’m junior doesn’t mean I take security lightly.”**  
-I’m here to learn, contribute, and one day become the person who writes the Conditional Access policies everyone copies.
-
-Currently open to:  
- Junior IAM roles  
- Apprenticeships/internships  
- Mentorship & knowledge sharing  
-
-Drop me a message — I respond faster than a risky sign-in alert! ⚡
-</div>
-
-
 
 
 ## Tools
@@ -96,3 +82,20 @@ Drop me a message — I respond faster than a risky sign-in alert! ⚡
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+---
+
+
+<div align="center">
+
+**“Just because I’m junior doesn’t mean I take security lightly.”**  
+I’m here to learn, contribute, and one day become the person who writes the Conditional Access policies everyone copies.
+
+Currently open to:  
+ Junior IAM roles  
+ Apprenticeships/internships  
+ Mentorship & knowledge sharing  
+
+Drop me a message — I respond faster than a risky sign-in alert! ⚡
+</div>
