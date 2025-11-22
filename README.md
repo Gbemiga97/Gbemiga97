@@ -25,7 +25,7 @@ I may be early in my career, but I’m fully committed to modern identity!
 
 ### Homelab Superpowers
 - Fully synced on-prem AD ↔ Entra ID lab with Cloud Sync
-- 50+ test Conditional Access policies (named after Marvel characters)
+- 20+ test Conditional Access policies
 - Passwordless sign-in with Windows Hello & FIDO2 keys
 - Automated user provisioning with PowerShell + scheduled tasks
 
