@@ -53,9 +53,9 @@ I may be early in my career, but I’m fully committed to modern identity!
 
 ## Projects
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Lifecycle Workflow, PowerShell scripting, Troubleshooting | <a href="https://github.com/Gbemiga97/IAM_Portfolio/tree/main/Automating%20Identity%20Lifecycle%20Management%20(Joiner%E2%80%93Mover%E2%80%93Leaver)%20in%20Microsoft%20Entra%20ID">Automating Identity Lifecycle Management (Joiner–Mover–Leaver) in Microsoft Entra ID </a>|
+| PowerShell Scripting & Automation, Entra ID User & Attribute Management, Lifecycle Workflows Configuration, Microsoft Graph API Integration, Debugging Scripts & Errors, Workflow Failure Resolution...   | <a href="https://github.com/Gbemiga97/IAM_Portfolio/tree/main/Automating%20Identity%20Lifecycle%20Management%20(Joiner%E2%80%93Mover%E2%80%93Leaver)%20in%20Microsoft%20Entra%20ID">Automating Identity Lifecycle Management (Joiner–Mover–Leaver) in Microsoft Entra ID </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
