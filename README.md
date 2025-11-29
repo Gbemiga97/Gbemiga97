@@ -55,7 +55,7 @@ I may be early in my career, but I’m fully committed to modern identity!
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Lifecycle Workflow          | <a href="https://google.com">Lifecycle Workflow </a>|
+| Lifecycle Workflow, PowerShell scripting, Troubleshooting | <a href="https://google.com">Automating Identity Lifecycle Management (Joiner–Mover–Leaver) in Microsoft Entra ID </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
