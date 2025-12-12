@@ -35,7 +35,7 @@ I may be early in my career, but I’m fully committed to modern identity!
 
 ### Let’s Connect — I’d Love to Learn From You!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusuf-salam-48745423b/)  
-[![Twitter/X](https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x)]([https://x.com/usuph_salam])
+[![Twitter/X](https://img.shields.io/badge/X-Follow%20My%20Journey-000000?style=for-the-badge&logo=x)](https://x.com/usuph_salam)
 
 
 
