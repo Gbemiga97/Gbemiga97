@@ -62,7 +62,6 @@ I may be early in my career, but I’m fully committed to modern identity!
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-https://github.com/Gbemiga97/IAM_Portfolio/tree/main/Hybrid%20Identity%20Synchronization
 ---
 
 
