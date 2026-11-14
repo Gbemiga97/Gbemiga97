@@ -1,9 +1,8 @@
-# Hi, I'm Holuwagbemiga (Gbemiga) 👋
+# Hi, I'm Gbemiga 👋
 
 ### Junior IAM & PAM Administrator | Microsoft SC-300 Certified | Entra ID · CyberArk · Active Directory
 
 ![SC-300](https://img.shields.io/badge/Microsoft-SC--300%20Certified-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Certified-4285F4?style=flat&logo=google&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/CyberArk%20Defender-In%20Progress-E0A800?style=flat)
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-Germany%20%7C%20Remote-2EA44F?style=flat)
 
@@ -31,7 +30,6 @@ I'm early in my career and **deeply focused on modern identity security**. I bre
 ## Certifications
 
 - Microsoft **SC-300**: Identity and Access Administrator
-- **Google Cybersecurity** Professional Certificate
 - CyberArk Defender: in progress
 
 ## Featured projects
